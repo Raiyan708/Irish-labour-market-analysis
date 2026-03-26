@@ -45,4 +45,7 @@ The project focuses on building reproducible data workflows and extracting actio
 
 ---
 
-## 📁 Project Structure
+🔗 Author
+Muhammad Raiyan
+MSc Data & Computational Science
+University College Dublin
