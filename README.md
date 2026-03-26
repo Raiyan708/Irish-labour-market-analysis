@@ -1,39 +1,47 @@
 # 📊 Irish Labour Market Data Analysis
 
-## 📌 Overview
-This project performs a comprehensive statistical analysis of Irish labour market data obtained from the Central Statistics Office (CSO). The goal is to explore employment patterns, earnings distribution, and sector-level wage differences using data-driven techniques.
+> 🚀 Academic Project | MSc Data & Computational Science @ University College Dublin
 
 ---
 
-## 🚀 Objectives
-- Analyze large-scale labour market datasets
-- Identify trends in employment and earnings
-- Compare sector-level wage distributions
-- Build reproducible data analysis workflows
+## 📌 Overview
+This project presents a comprehensive statistical analysis of Irish labour market data sourced from the Central Statistics Office (CSO). The objective is to explore employment patterns, earnings distribution, and sector-level wage differences using structured data analysis and visualization techniques.
+
+The project focuses on building reproducible data workflows and extracting actionable insights from large-scale economic datasets.
+
+---
+
+## 🎯 Objectives
+- Analyze large structured labour market datasets  
+- Identify trends in employment and wage distribution  
+- Compare sector-level earnings across industries  
+- Build scalable and reproducible data analysis pipelines  
 
 ---
 
 ## 🛠️ Tech Stack
-- R
-- Tidyverse (dplyr, tidyr, ggplot2)
-- Data Visualization
-- Statistical Analysis
+- **Language:** R  
+- **Libraries:** Tidyverse (dplyr, tidyr, ggplot2)  
+- **Techniques:** Data Cleaning, Transformation, Exploratory Data Analysis, Statistical Modelling  
 
 ---
 
 ## ⚙️ Key Features
-- Data cleaning and preprocessing using `dplyr` and `tidyr`
-- Exploratory Data Analysis (EDA)
-- Statistical summaries across sectors and employment categories
-- Custom R functions and S3 methods for reusable analysis workflows
-- Visualization of wage and employment trends
+- Data cleaning and preprocessing using `dplyr` and `tidyr`  
+- Structured data transformation and reshaping workflows  
+- Exploratory Data Analysis (EDA) across employment categories  
+- Statistical summaries and comparative analysis across sectors  
+- Custom R functions and S3 methods for reusable analysis  
+- Data validation and integrity checks for reliable outputs  
+- Clear and interpretable visualizations using `ggplot2`  
 
 ---
 
-## 📊 Sample Analysis
-- Sector-wise wage comparison
-- Employment distribution analysis
-- Trend identification across categories
+## 📊 Analysis Highlights
+- Sector-wise wage distribution and comparison  
+- Employment trends across industries and categories  
+- Identification of patterns in earnings and workforce distribution  
+- Insights into economic structure based on statistical evidence  
 
 ---
 
